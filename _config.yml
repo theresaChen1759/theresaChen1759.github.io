@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theresa Chen Website"
+title                    : "Theresa's Landing Pad"
 title_separator          : "-"
 name                     : &name "Theresa Chen"
 description              : &description "PhD Student at University of Minnesota"
