@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Researching System Resurrection through MESSY-71"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'This paper presents our research groups experience rebuilding MESSY-71, a pioneering AI system developed by Sheldon Klein in the 1970s, as a case study in system reusrrection. '
+date: 2021
+venue: 'Digital Humanities Quarterly'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents our research groups experience rebuilding MESSY-71, a pioneering AI system developed by Sheldon Klein in the 1970s, as a case study in system reusrrection.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[View code here]([http://academicpages.github.io/files/paper1.pdf](https://github.com/james-owen-ryan/messy-71)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ryan, J. et al, (2009). "Researching System Resurrection through MESSY-71" <i>Digital Humanities Quarterly</i>. 
