@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Theresa Chen's personal website!
+Hi, I'm Theresa, a 1st year PhD student at the University of Minnesota working in the [Knowledge Computing Lab](https://knowledge-computing.github.io/) with Professor Yao-Yi Chiang. My research focuses on desigining machine learning methods specialized in processing spatial data.
