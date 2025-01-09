@@ -1,10 +1,10 @@
 ---
 permalink: /
 title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# author_profile: true
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 Hi, I'm Theresa! I'm a 3rd year Computer Science PhD student at the University of Minnesota working in the [Knowledge Computing Lab](https://knowledge-computing.github.io/) with Professor Yao-Yi Chiang. 
