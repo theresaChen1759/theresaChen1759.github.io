@@ -275,7 +275,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: newsfeed
+      type: talks
     values:
       layout: talk
       author_profile: true
