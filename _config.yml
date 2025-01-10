@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "large_profile.jpg"
+  avatar           : "profile2.jpg"
   name             : "Theresa Chen"
-  pronouns         : she/her
+  pronouns         : #She/Her
   bio              : "PhD Student in Computer Science"
   employer         : "University of Minnesota"
   uri              : # URL
