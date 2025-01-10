@@ -21,7 +21,7 @@ repository               : "theresaChen1759/theresaChen1759.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "website_profile.jpg"
+  avatar           : "website_profile.png"
   name             : "Theresa Chen"
   pronouns         : #She/Her
   bio              : "PhD Student in Computer Science"
