@@ -9,6 +9,8 @@ redirect_from:
 
 Hi, I'm Theresa! I'm a 3rd year Computer Science PhD student at the University of Minnesota working in the [Knowledge Computing Lab](https://knowledge-computing.github.io/) with Professor Yao-Yi Chiang.
 
+Download my CV [here](/files/cv_012025.pdf).
+
 # Research Interests
   * <span style="font-size: 0.9em;"> Machine learning for spatial problems and geographic data. Specifically, my background is in computer vision and adapting computer vision models to better address challenges unique to geographic data. </span>
 
