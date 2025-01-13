@@ -23,6 +23,7 @@ Download my CV [here](/files/cv_012025.pdf).
   * **CEDAR: Carbon Estimation with Deep Learning (part of the AI-CLIMATE initiative)**
   * **Peatlands Permafrost Mapping (part of the AI-CLIMATE initiative)**
   * **Automatically Georeferencing Geologic Maps**
+  
 ## Finished
   * **Machine Learning for Species Distribution Modeling**
     * <span style="font-size: 0.9em;"> Developed a transformer-based model to learn geographic embeddings from multimodal, multi-resolution data in order to ultimately predict the distribution of bird species across the United States. </span>
