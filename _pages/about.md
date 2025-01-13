@@ -19,12 +19,12 @@ Download my CV [here](/files/cv_012025.pdf).
   * <span style="font-size: 0.9em;"> Self-supervised learning and multimodal learning in computer vision. </span>
 
 # Projects
-  ## Ongoing
-    * **CEDAR: Carbon Estimation with Deep Learning (part of the AI-CLIMATE initiative)**
-    * **Peatlands Permafrost Mapping (part of the AI-CLIMATE initiative)**
-    * **Automatically Georeferencing Geologic Maps**
-  ## Finished
-    * **Machine Learning for Species Distribution Modeling**
-      * <span style="font-size: 0.9em;"> Developed a transformer-based model to learn geographic embeddings from multimodal, multi-resolution data in order to ultimately predict the distribution of bird species across the United States. </span>
-    * **Using Deep Neural Networks to Generate Representations of Urban Neighborhoods** 
-      * <span style="font-size: 0.9em;"> Understanding urban environments by generating indicators, such as walkability or greenness, requires us to understand how the city is split up; i.e. what the neighborhoods are. By utilizing street view images and publicly available data, such as the human settlement layer, we automatically clustered urban areas into likely neighborhoods using self-supervised machine learning methods. </span>
+## Ongoing
+  * **CEDAR: Carbon Estimation with Deep Learning (part of the AI-CLIMATE initiative)**
+  * **Peatlands Permafrost Mapping (part of the AI-CLIMATE initiative)**
+  * **Automatically Georeferencing Geologic Maps**
+## Finished
+  * **Machine Learning for Species Distribution Modeling**
+    * <span style="font-size: 0.9em;"> Developed a transformer-based model to learn geographic embeddings from multimodal, multi-resolution data in order to ultimately predict the distribution of bird species across the United States. </span>
+  * **Using Deep Neural Networks to Generate Representations of Urban Neighborhoods** 
+    * <span style="font-size: 0.9em;"> Understanding urban environments by generating indicators, such as walkability or greenness, requires us to understand how the city is split up; i.e. what the neighborhoods are. By utilizing street view images and publicly available data, such as the human settlement layer, we automatically clustered urban areas into likely neighborhoods using self-supervised machine learning methods. </span>
