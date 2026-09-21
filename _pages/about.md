@@ -7,24 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Theresa! I'm a 3rd year Computer Science PhD student at the University of Minnesota working in the [Knowledge Computing Lab](https://knowledge-computing.github.io/) with Professor Yao-Yi Chiang.
+Hi, I'm Theresa! I'm a 5th year Computer Science PhD student at the University of Minnesota working in the [Knowledge Computing Lab](https://knowledge-computing.github.io/) with Professor Yao-Yi Chiang.
 
 Download my CV [here](/files/cv_012025.pdf).
 
 # Research Interests
-  * <span style="font-size: 0.9em;"> Machine learning for spatial problems and geographic data. Specifically, my background is in computer vision and adapting computer vision models to better address challenges unique to geographic data. </span>
+  * <span style="font-size: 0.9em;"> Machine learning for spatial problems and geographic data. Specifically, my background is in computer vision and state-of-the-art vision models to better address challenges unique to environmental data. </span>
 
-  * <span style="font-size: 0.9em;"> Using state-of-the-art deep learning models for environmental applications (see ongoing projects), Developing machine learning models for stronger predictive models in applications such as climate modeling, air quality modeling, and wildlife movement patterns. </span>
+  * <span style="font-size: 0.9em;"> Fast adaptation of geo-foundation models for multimodal environmental data. </span>
 
-  * <span style="font-size: 0.9em;"> Self-supervised learning and multimodal learning in computer vision. </span>
+  * <span style="font-size: 0.9em;"> Uncertainty quantification across geographic space in deep neural networks. Specifically increasing interpretability by combining spatial statistics and uncertainty modeling techniques in the deep learning domain. </span>
 
 # Projects
 ## Ongoing
-  * **CEDAR: Carbon Estimation with Deep Learning (part of the AI-CLIMATE initiative)**
-  * **Peatlands Permafrost Mapping (part of the AI-CLIMATE initiative)**
-  * **Automatically Georeferencing Geologic Maps**
+  * **CEDAR: Carbon Estimation with Deep Learning (part of the AI-LEAF initiative)**
+  * **Peatlands Permafrost Mapping (part of the AI-LEAF initiative)**
   
-## Finished
+  
+## Previous
+  * **Automatically Georeferencing Geologic Maps**
+  * **Post-disaster Building Damage Assessment**
   * **Machine Learning for Species Distribution Modeling**
     * <span style="font-size: 0.9em;"> Developed a transformer-based model to learn geographic embeddings from multimodal, multi-resolution data in order to ultimately predict the distribution of bird species across the United States. </span>
   * **Using Deep Neural Networks to Generate Representations of Urban Neighborhoods** 
